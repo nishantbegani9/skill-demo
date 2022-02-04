@@ -1,1 +1,6 @@
-public class SkillDemo {} //will move to GitHub Desktop
+public class SkillDemo {
+    public static int multiply(int a, int b){
+
+        return a * b;
+    }
+} 
